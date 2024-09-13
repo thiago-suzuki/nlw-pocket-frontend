@@ -46,3 +46,8 @@ $ npm run dev
 
 ## Link Deploy - Vercel
 https://nlw-pocket-frontend.vercel.app/
+
+<br>
+
+## Link Repositório - Backend
+https://github.com/thiago-suzuki/nlw-pocket-backend
